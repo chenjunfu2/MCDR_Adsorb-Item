@@ -1,0 +1,15 @@
+{
+	"id": "adsorb_item",
+	"version": "1.0.0",
+	"name": "Adsorb Item",
+	"description": {
+		"zh_cn": "使用 !!abi [距离(可选)] 吸附一定球形范围内的附近掉落物"
+	},
+	"author": [
+		"Chenjunfu2a"
+	],
+	"dependencies": {
+		"mcdreforged": ">=2.1.0-beta"
+	},
+	"link": "内部特供插件"
+}
